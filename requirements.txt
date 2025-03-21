@@ -10,5 +10,6 @@ dash-core-components
 dash-html-components
 dash-bootstrap-components
 pandas
+numpy
 plotly
 more-itertools

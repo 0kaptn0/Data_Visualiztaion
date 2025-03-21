@@ -24,7 +24,6 @@ Note:you find two version of each pdf ,before and after cleaning the dataset.
     -Developers by Formal Education Level(Line chart)
     -Developers by Age, classified by Education Level(Stacked Bar chart)
     
-
 🔹 Google Looker Dashboard
 ✔️ Current Technology Usage
     -Top 10 LanguageHaveWorkedWith(Stacked Bar chart)

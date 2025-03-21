@@ -5,6 +5,7 @@ It includes:
 📂 Google Looker Dashboard Report (PDF) – An alternative visualization of the same dataset using Looker Studio.
 📊 Developer Survey Dataset (CSV) – Raw data used for analysis and visualization.
 📝 Data Cleaning & Processing Scripts – Python scripts used for preparing and analyzing data in JupyterLab.
+Note:you find two version of each pdf ,before and after cleaning the dataset.
 
 🔹 IBM Cognos Dashboards
 ✔️ Current Technology Usage

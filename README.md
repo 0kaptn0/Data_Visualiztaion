@@ -1,20 +1,25 @@
-basic dashboard with dash using HTML and core components.
-Flight Delay Time Statistics Dashboard
-This project is an interactive dashboard built using Python, Dash, and Plotly to visualize flight delay statistics for U.S. airlines. The dashboard provides insights into the average delay times categorized by various delay types (Carrier, Weather, NAS, Security, Late Aircraft) for each airline across different months of a selected year.
+1. Australia Wildfire Dashboard(Aus_WildFire.py)
+Dataset: Historical Wildfire Data
+Description: Visualizes wildfires in Australia by region and year.
+Features:
+Select region and year.
+Pie chart for average estimated fire area by month.
+Bar chart for vegetation fire count by month.
 
-Features
-Input a specific year to explore flight delay statistics.
-Visualize delay trends with line charts for:
-Carrier delays
-Weather delays
-NAS delays
-Security delays
-Late aircraft delays
-Fully interactive with dynamic updates.
-Technologies Used
-Dash: For building the web application.
-Plotly: For creating interactive visualizations.
-Pandas: For data manipulation and analysis.
-Airline Dataset: Data sourced from U.S. Department of Transportation.
+2. Automobile Sales Statistics Dashboard(Auto_Sales.py)
+Dataset: Historical Automobile Sales Data
+Description: Provides insights into automobile sales, including recession period statistics and yearly sales trends.
+Features:
+Dropdown to select report type (Yearly or Recession period statistics).
+Yearly statistics include line charts for sales and vehicle type trends.
+Recession analysis includes bar and pie charts for vehicle sales and advertising expenditure.
 
-#to run the project install the required packeges,run the #pip install pandas dash numpy in the terminal 
+3. Flight Delay Statistics Dashboard(Flight_Delay.py)
+Dataset: Historical Airline Delay Data
+Description: Analyzes flight delays due to different causes.
+Features:
+Input year selection.
+Line charts for carrier, weather, NAS, security, and late aircraft delays.
+
+#you can run the command #pip install -r requirements.txt #in the terminal to install all the requirements
+#these are the required libraries to run the project
